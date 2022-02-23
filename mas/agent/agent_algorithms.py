@@ -1,0 +1,3 @@
+
+def nothing(agent):
+    return
